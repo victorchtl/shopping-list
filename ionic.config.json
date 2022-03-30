@@ -1,0 +1,8 @@
+{
+  "name": "ShoppingList",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "89a42686"
+}
