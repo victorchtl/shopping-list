@@ -1,0 +1,5 @@
+.shop-item {
+    user-select: none;
+    cursor: pointer;
+}
+

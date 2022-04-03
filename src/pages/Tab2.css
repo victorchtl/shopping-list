@@ -1,0 +1,4 @@
+.list-item {
+    user-select: none;
+    cursor: pointer;
+}
